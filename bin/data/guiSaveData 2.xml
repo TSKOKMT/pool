@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<group>
+	<minJoinDist>99.3</minJoinDist>
+	<calibrationPointX>810.75</calibrationPointX>
+	<calibrationPointY>428.625</calibrationPointY>
+	<bDrawRaw>0</bDrawRaw>
+	<bDrawFrame>0</bDrawFrame>
+	<minJoinDistSeed>1</minJoinDistSeed>
+</group>

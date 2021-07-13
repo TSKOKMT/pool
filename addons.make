@@ -1,0 +1,9 @@
+ofxFFTouch
+ofxGui
+ofxOsc
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtMotion
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings

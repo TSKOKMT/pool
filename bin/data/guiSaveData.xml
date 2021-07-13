@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<group>
+	<minJoinDist>99.3</minJoinDist>
+	<calibrationPointX>735.3</calibrationPointX>
+	<calibrationPointY>299</calibrationPointY>
+	<bDrawRaw>0</bDrawRaw>
+	<bDrawFrame>0</bDrawFrame>
+	<minJoinDistSeed>1.23</minJoinDistSeed>
+	<ease>0.19315</ease>
+	<bVirtualTouch>0</bVirtualTouch>
+	<bVirtualPerson>0</bVirtualPerson>
+	<bVirtualTouches>0</bVirtualTouches>
+	<bVirtualPeople>1</bVirtualPeople>
+	<additionalVirtualTouch>0</additionalVirtualTouch>
+	<additionalVirtualPerson>0</additionalVirtualPerson>
+</group>
